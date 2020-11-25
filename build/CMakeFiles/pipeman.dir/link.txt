@@ -1,0 +1,1 @@
+/usr/lib/ccache/c++    -rdynamic CMakeFiles/pipeman.dir/src/main.cpp.o CMakeFiles/pipeman.dir/src/pipelineManager.cpp.o  -o pipeman -lgstvideo-1.0 -lgstapp-1.0 -lgstbase-1.0 -lgstcontroller-1.0 -lgstreamer-1.0 -lgobject-2.0 -lglib-2.0 

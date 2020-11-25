@@ -1,0 +1,3 @@
+/home/ireed/Development/pipelineManager/build/CMakeFiles/rebuild_cache.dir
+/home/ireed/Development/pipelineManager/build/CMakeFiles/edit_cache.dir
+/home/ireed/Development/pipelineManager/build/CMakeFiles/pipeman.dir
